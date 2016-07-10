@@ -30,7 +30,7 @@ class IconType(object):
         40 : [1,2,3],
         29 : [1,2],
         60 : [2,3],
-        29 : [2,3]
+        29 : [1,2,3]
     }
 
     #Creates a string which with act as the icon's name
